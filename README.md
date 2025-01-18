@@ -73,7 +73,7 @@
 - Mail: <a href="mailto:yuiop0012@naver.com">yuiop0012@naver.com</a>
 
 **원치현 WON CHIHYEON : FE**
-- GitHub: [@chihyunwon](https://github.com/chihyunwon) 
+- GitHub: [@chihyunwon](https://github.com/chihyeonwon) 
 - Mail: <a href="mailto:heungeob1003@gmail.com">heungeob1003@gmail.com</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
