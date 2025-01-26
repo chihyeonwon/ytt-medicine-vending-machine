@@ -1,4 +1,6 @@
-백엔드와 프론트엔드 연동에 있어서 뛰어난 팀원분들에게 많이 배울 수 있었습니다. 대학 생활의 마지막 캡스톤을 함께해 준 팀원분들에게 감사합니다
+![image](https://github.com/user-attachments/assets/1bdaa57c-fa61-45e0-b404-c609fa1efe35)
+백엔드와 프론트엔드 연동에 있어서 뛰어난 팀원분들에게 많이 배울 수 있었습니다.    
+대학 생활의 마지막 캡스톤을 함께해 준 팀원분들에게 감사합니다.           
 
 <div align="right">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarso34%2Fytt-medicine-vending-machine%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
